@@ -1,0 +1,31 @@
+{
+  "title": "kataware.dev",
+  "titleTemplate": "%s | kataware.dev",
+  "description": "NextJs example using permissive config",
+  "additionalMetaTags": [
+    { "property": "author", "content": "kataware" },
+    {
+      "property": "keywords",
+      "content": ""
+    }
+  ],
+  "twitter": {
+    "cardType": "summary",
+    "handle": "kataware",
+    "site": "kataware"
+  },
+  "openGraph": {
+    "type": "website",
+    "site_name": "kataware",
+    "profile": {
+      "firstName": "kataware"
+    },
+    "images": [
+      {
+        "url": "/images/og-cover.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  }
+}
